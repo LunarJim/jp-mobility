@@ -1,0 +1,11 @@
+.sidebar {
+    background-color: $bg-color;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: $sidebar-width;
+    padding: 2.5em 0;
+    text-align: center;
+    text-transform: uppercase;
+}

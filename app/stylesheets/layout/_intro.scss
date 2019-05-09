@@ -1,0 +1,9 @@
+.intro {
+    min-height: 100vh;
+    background: url('../images/tram.jpeg');
+    background-size: cover;
+    background-position: center bottom;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}

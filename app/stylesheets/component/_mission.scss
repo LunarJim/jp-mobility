@@ -1,0 +1,10 @@
+.mission {
+    
+    color: $text-color;
+
+        &__title {
+            color: darken($dark-grey, 20%);
+            font-size: 2em;
+            font-weight: 400;
+        }
+    }

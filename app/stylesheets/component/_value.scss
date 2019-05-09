@@ -1,0 +1,18 @@
+.value {
+    text-align: center;
+
+    &__title {
+        color: $bg-color;
+        font-size: 0.7em;
+        font-weight: 400;
+        text-transform: uppercase;
+        margin-bottom: 0;
+    }
+
+    &__content {
+        color: darken($dark-grey, 20%);
+        font-size: 2em;
+        font-weight: bold;
+        margin: 0.2em 0;
+    }
+}

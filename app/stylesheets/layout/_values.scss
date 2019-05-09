@@ -1,0 +1,13 @@
+.values {
+    min-height: 100vh;
+
+    &__list {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    &__text {
+        padding: 1em 3em;
+        color: $bg-color;
+    }
+}

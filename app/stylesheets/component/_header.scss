@@ -1,0 +1,17 @@
+.header {
+
+    margin-bottom: 2em;
+
+    &__content {
+        color: white;
+        padding-left: 4em;
+
+        &__title {
+            border-bottom: 3px solid white;
+            padding-bottom: 0.3em;
+            display: inline-block;
+            padding-right: 1em;
+            width: 45%;
+        }
+    }
+}

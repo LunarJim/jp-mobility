@@ -1,0 +1,18 @@
+.logo {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background: url('../images/tgv.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bolder;
+    font-size: 2em !important;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.name {
+    position: relative;
+    right: 10px;
+    font-weight: bolder;
+    bottom: 20px;
+}
