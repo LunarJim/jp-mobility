@@ -1,6 +1,7 @@
 .article {
     width: calc(100%/3);
     overflow: hidden;
+    min-height: 100%;
 
     a {
         display: block;
@@ -11,7 +12,6 @@
     }
 
     &__content {
-        border-bottom: 1px solid lighten($light-grey, 8%);
         border-right: 1px solid lighten($light-grey, 8%);
         padding: 1em;
         color: $text-color;
