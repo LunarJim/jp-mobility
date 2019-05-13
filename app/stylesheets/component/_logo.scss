@@ -1,21 +1,18 @@
 .logo {
-    padding-top: 2em;
-    padding-bottom: 2em;
-    background: url('../images/tgv.jpg') no-repeat;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    opacity: 0.9;
     background-size: cover;
     color: white;
     font-family: 'IBM Plex Sans', sans-serif;
-    font-size: 2em !important;
-    display: flex;
-    justify-content: flex-end;
+    font-size: 1.4em !important;
     margin-left: 0.2em;
-    margin-right: 0.2Em;
-    border-bottom: 1px solid white;
+    margin-right: 0.2em;
+    border: 1px solid white;
+
 }
 
 .name {
-    position: relative;
-    right: 10px;
     font-weight: bolder;
-    bottom: 20px;
+
 }
