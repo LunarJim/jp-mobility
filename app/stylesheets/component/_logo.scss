@@ -4,10 +4,13 @@
     background: url('../images/tgv.jpg') no-repeat;
     background-size: cover;
     color: white;
-    font-weight: bolder;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 2em !important;
     display: flex;
     justify-content: flex-end;
+    margin-left: 0.2em;
+    margin-right: 0.2Em;
+    border-bottom: 1px solid white;
 }
 
 .name {

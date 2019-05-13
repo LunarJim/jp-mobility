@@ -12,6 +12,11 @@
             display: inline-block;
             padding-right: 1em;
             width: 45%;
+
+            &:hover {
+                border-bottom: 3px solid $alt-color;
+                color: $alt-color;
+            }
         }
     }
 }
